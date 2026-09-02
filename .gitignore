@@ -1,0 +1,27 @@
+# Dependencias
+node_modules/
+
+# Artefactos de build
+dist/
+deploy/
+
+# Base de datos SQLite (datos de ejecución)
+db/*.sqlite3
+db/*.sqlite
+db/*.db
+
+# Variables de entorno
+.env.local
+.env.production
+.env
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
