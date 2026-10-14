@@ -185,5 +185,4 @@ Este archivo contiene TODO lo que Claude Code necesita saber.
 
 ---
 
-**¡Vamos a empezar! Abre Claude Code Desktop y apunta a `docs/backend/FASE1_BACKEND.md`**
 
